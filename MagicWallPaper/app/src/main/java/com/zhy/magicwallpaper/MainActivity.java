@@ -10,6 +10,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     private CheckBox mCbVoice;
+	//
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
